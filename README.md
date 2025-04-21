@@ -1,0 +1,1 @@
+# BITCORE_MEMORY

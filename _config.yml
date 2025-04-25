@@ -1,0 +1,17 @@
+title: BITCORE_MEMORY
+description: A recursive knowledge repository for the BITCORE project
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Jekyll configuration
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "research"
+    values:
+      layout: "research"

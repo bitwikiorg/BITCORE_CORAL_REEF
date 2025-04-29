@@ -1,7 +1,7 @@
-title: BITCORE MEMORY
+title: BITCORE_CORAL_REEF
 description: Knowledge base for BITCORE project
-baseurl: "/BITCORE_MEMORY"
-url: "" # Add your GitHub Pages URL when deployed
+baseurl: ""
+url: "" 
 
 # Theme (GitHub Pages compatible)
 remote_theme: pages-themes/minimal@v0.2.0

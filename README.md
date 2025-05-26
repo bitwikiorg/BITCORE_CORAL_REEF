@@ -16,12 +16,21 @@ Conduct and organize project-specific research inside the BITCORE Research Termi
 Export the structured output.
 
 Publish it as a modular GitHub Pages website using Jekyll.
+![Screenshot 2025-05-26 175810](https://github.com/user-attachments/assets/a3fdd9a9-91f0-4de3-b53e-51e2f2fcf9d5)
+---
+![Screenshot 2025-05-26 175819](https://github.com/user-attachments/assets/322cef6f-b9d6-4711-ba16-b880d74e7fd9)
+
+
 
 This process enables teams to build self-hosted knowledge bases for projects like iGEM competitions, synthetic biology labs, multidisciplinary research collectives, and beyond.
 
 How It Works
 
     BITCORE ResearchTerminal --> OutputExport --> GitHubRepo --> JekyllSite
+    
+
+
+
 
 ## Live Instances
 BITCORE Research Terminal (MVP Alpha):
